@@ -51,4 +51,4 @@ Python, NumPy, Pandas, Scikit-learn, Surprise (SVD)
 
 ## Course
 
-DSC 148 — Web Mining and Recommender Systems, UC San Diego
+CSE 158R — Web Mining and Recommender Systems, UC San Diego
